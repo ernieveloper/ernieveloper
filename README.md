@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @ernieveloper
-- 👀 I’m interested in regaining my programmming skills, as I have not used them for a long time. I graduated with an equivalent to a CS degree and went to do Marketing and then Systems Administration instead.
-- I am particularly interested in data engineering; and idk...maybe I will take a different road and even learn front end developement, who knows. 
+- 👋 Hi, I’m @ernieveloper and I'm a systems administrator with an equivalent to a CS degree. 
+- 👀 I'm interested in reexploring the world of programming and software development. And I am particularly interested in data engineering and maybe front/back-end development.
 - 🌱 I’m currently learning Python and refreshing my SQL skills. 
 - 💞️ I’m looking to collaborate on any project that has a considerable depth of data manipulation.
 - 📫 How to reach me ... I will update this part later.
