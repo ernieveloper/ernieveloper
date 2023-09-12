@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @ernieveloper and I'm a systems administrator with an equivalent to a CS degree. 
-- 👀 I'm interested in reexploring the world of programming and software development. And I am particularly interested in data engineering and maybe front/back-end development.
-- 🌱 I’m currently learning Python and refreshing my SQL skills. 
+- 👀 I'm interested in reexploring the world of programming and software development. And I am particularly interested in data engineering and maybe front/back-end developmen.
 - 💞️ I’m looking to collaborate on any project that has a considerable depth of data manipulation.
 - 📫 How to reach me ... I will update this part later.
 
