@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ernieveloper and I'm a systems administrator with a degree in Information Systems.
-- 👀 I'm interested in reexploring the world of programming and software development. And I am particularly interested in data engineering and maybe front/back-end developmen.
+- 👀 I'm interested in re-exploring the world of programming and software development. And I am particularly interested in data engineering and maybe front/back-end developmen.
 - 💞️ I’m looking to collaborate on any project that has a considerable depth of data manipulation.
 - 📫 How to reach me ... I will update this part later.
 
